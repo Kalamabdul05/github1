@@ -1,5 +1,4 @@
-if branch == "swss":
 constant= mindvision.com
-else:
-constant=masfob.com
 
+
+need to be changed to in main

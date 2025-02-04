@@ -1,4 +1,3 @@
-
 constant= mindvision.com
 
 change here
